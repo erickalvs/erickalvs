@@ -7,6 +7,7 @@
 </p>
 
 ---
+![snake animation](https://github.com/<erickalvs>/<erickalvs/blob/output/github-contribution-grid-snake2.svg)
 
 ### 🌐 Connect with me:
 <p align="left">
