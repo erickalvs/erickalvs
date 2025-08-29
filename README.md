@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/seu-usuário-aqui/erickalvs/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/erickalvs/erickalvs/blob/output/github-contribution-grid-snake.svg)
 
 ##STATS
 <div>
