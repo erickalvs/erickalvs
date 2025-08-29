@@ -7,7 +7,11 @@
 </p>
 
 ---
-
+<div align="center">
+  
+![snake gif](https://github.com/erickalvs/erickalvs/blob/output/github-snake-dark.svg)
+  
+</div>
 
 ### 🌐 Connect with me:
 <p align="left">
